@@ -88,7 +88,7 @@ IT Auditor with expertise in risk-based audit planning, regulatory compliance (I
 - Regulatory Compliance (GDPR, SOX)  
 - Internal Control Testing & Evaluation  
 - Risk Assessment & Management  
-- Vulnerability Management (Nessus, Qualys)  
+- Vulnerability Assessment & Management (Nessus, Qualys)  
 - Cybersecurity Compliance (GDPR, CISA, CompTIA Security+)
 
 ---
