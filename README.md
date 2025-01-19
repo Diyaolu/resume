@@ -17,11 +17,16 @@ IT Auditor with expertise in risk-based audit planning, regulatory compliance (I
 
 ### Lead Associate, Willis Towers Watson, Portugal  
 **07/2023 – Present**  
-- Performed risk assessments and gap analysis of the company’s information security program against industry best practices.
-- Developed a comprehensive audit plan based on findings from the risk assessment to ensure that all areas are covered during an audit.
-- Conducted internal audits based on ISO 27001 and GDPR requirements.
-- Collaborated with stakeholders to enhance audit processes and compliance frameworks.
-- Developed and maintained a network of contacts to support risk awareness and strengthen audit delivery.
+
+- **Risk Assessments and Analysis**: Conducted detailed risk assessments and gap analyses of the company's information security program, benchmarking against industry best practices such as ISO 27001 and NIST CSF. Identified critical vulnerabilities, recommended mitigation strategies, and ensured alignment with organizational risk tolerance.  
+- **Comprehensive Audit Planning**: Designed and implemented a robust, risk-based audit framework that addresses both current and emerging threats. Conducted regular reviews to adapt the audit plan in response to evolving compliance and security landscapes.  
+- **ISO 27001 and GDPR Compliance Audits**: Led internal audits to assess compliance with ISO 27001 and GDPR requirements, ensuring data protection and security controls were effectively implemented and maintained. Generated detailed audit reports and guided remediation activities to address non-conformities.  
+- **Stakeholder Collaboration**: Partnered with cross-functional teams, including IT, legal, and operations, to streamline audit processes and strengthen compliance frameworks. Conducted workshops and training sessions to build organization-wide awareness of audit and compliance objectives.  
+- **Risk Awareness and Network Building**: Established and nurtured a professional network of industry experts and internal stakeholders to support the dissemination of risk awareness, enhance knowledge sharing, and ensure the delivery of impactful audit outcomes.  
+- **Process Optimization and Technology Integration**: Championed the use of advanced audit tools and technologies, such as data analytics platforms, to automate audit tasks, improve efficiency, and deliver actionable insights. Reduced audit cycle times and enhanced the accuracy of findings.  
+- **Reporting and Executive Communication**: Prepared and presented executive-level summaries of audit findings and risk assessments, providing actionable recommendations to senior leadership to strengthen the organization’s security posture.  
+- **Continuous Improvement**: Contributed to the continuous improvement of the audit function by adopting lessons learned from previous engagements, enhancing methodologies, and staying ahead of industry trends.
+
 
 ### Senior Risk Analyst (ALMT), BNP Paribas, Portugal  
 **03/2022 – 06/2023**  
